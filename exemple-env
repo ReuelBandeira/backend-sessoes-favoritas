@@ -1,0 +1,6 @@
+
+DATABASE_URL="postgresql://postgres:P@ssw0rd@localhost:5432/mydatabase"
+PORT=3333
+JWT_SECRET="seuSegredoJWTsuperseguro"
+
+
